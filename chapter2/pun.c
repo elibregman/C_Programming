@@ -1,7 +1,5 @@
-// C's standard I/O library
+/* C's standard I/O library */
 #include <stdio.h>
-
-// This is a single line comment
 
 /*
    This is a multi 
