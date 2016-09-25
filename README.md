@@ -1,2 +1,2 @@
 # C_Programming
-My program solutions by chapter
+Random C programs as I learn the language
